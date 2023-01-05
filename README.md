@@ -7,11 +7,11 @@
 Besides killing more than 1.1 million Americans to date, the COVID-19 pandemic has also caused a heavy toll on mental health. According to the US. Census Bureau and the National Center for Health Statistics (NCHS), 
 > More than four-in-ten U.S. adults had developed symptoms of depression and/or anxiety during the pandemic!
 
-Here we will explore a data set provided by the US Census Bureau to visualize the effects of Covid-19 on different social groups in America. The information may be of interest to policy makers, health care providers, scientific researchers, and the public in general.
+Here we will explore a data set provided by the US Census Bureau to visualize the effects of COVID-19 on different social groups in America. The information may be of interest to policy makers, health care providers, scientific researchers, and the public in general.
 
 ### Data Set
 
-NCHS partnered with the Census Bureau on an experimental data system called the Household Pulse Survey. The respondents report symptoms that are associated with generalized anxiety or major depressive disorder, e.g., how often they have felt down, depressed, hopeless or anxious, and how often they have been unable to stop worrying or shown little interest or pleasure in doing things over the last two weeks. 
+The Household Pulse Survey respondents report symptoms that are associated with generalized anxiety or major depressive disorder, e.g., how often they have felt down, depressed, hopeless or anxious, and how often they have been unable to stop worrying or shown little interest or pleasure in doing things over the last two weeks. 
 
 **Key features:** 
 > * **Indicator**: Anxiety and/or Depression
@@ -26,7 +26,7 @@ Data collection: Apr. 23, 2020 - Nov. 29, 2022 (as the time of writing)
 ### Key Observations
 
 - The COVID-19 pandemic has exacerbated existing health inequalities and the negative effects have hit harder on social groups who already face disadvantage and discrimination, particularly in people who have disabilities, who have Black and Hispanic ethnic backgrounds, and who are sexual and gender minorities. Action should be taken swiftly to sufficiently meet the needs of these individuals, helping them to survive the COVID-19 pandemic and be well equipped to endure any similar strains in the future.
-- There are regional differences across U.S. states during the COVID-19 pandemic. In different Census regions, the levels of anxiety and depression are highest in the South, followed by the West and Northeast, and were the lowest in the Midwest. 
+- There are regional differences across U.S. states during the COVID-19 pandemic. In different Census regions, the levels of anxiety and/or depression are highest in the South, followed by the West and Northeast, and were the lowest in the Midwest. 
 ---
 
 Please read the notebook:
