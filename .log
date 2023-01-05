@@ -1,0 +1,16 @@
+2023-01-05 00:51:56,652 [50389] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-01-05 00:51:56,652 [50389] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-01-05 00:51:56,652 [50389] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-01-05 00:51:56,655 [50389] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-01-05 00:51:56,656 [50389] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-01-05 00:51:56,656 [50389] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-01-05 00:54:00,680 [50389] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/bensmacpro/opt/miniconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-01-05 00:54:00,754 [50389] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/bensmacpro/opt/miniconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-01-05 00:54:01,186 [50389] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/bensmacpro/opt/miniconda3/lib/python3.9/typing.py
+2023-01-05 00:54:01,203 [50389] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/bensmacpro/opt/miniconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-01-05 00:59:36,039 [50444] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-01-05 00:59:36,039 [50444] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-01-05 00:59:36,040 [50444] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-01-05 00:59:36,043 [50444] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-01-05 00:59:36,044 [50444] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-01-05 00:59:36,044 [50444] DEBUG    root:97: [JupyterRequire] Registering comm targets.
