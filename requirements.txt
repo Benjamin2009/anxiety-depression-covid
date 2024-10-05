@@ -1,0 +1,25 @@
+
+# Core Libraries
+pandas>=1.0.0
+numpy>=1.18.0
+
+# Plotting Libraries
+plotly>=5.0.0
+
+# Dash and Related Libraries
+dash>=2.0.0
+jupyter_dash>=0.4.0
+
+# US States Handling
+us>=2.0.0
+
+# IPython for Jupyter Enhancements
+ipython>=7.0.0
+
+# Jupyter and Extensions
+jupyter>=1.0.0
+nbconvert>=6.0.0
+traitlets>=5.0.0
+notebook>=6.0.0
+jupyter_contrib_nbextensions>=0.7.0
+
