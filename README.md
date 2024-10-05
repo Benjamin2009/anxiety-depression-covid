@@ -18,10 +18,10 @@ The Household Pulse Survey respondents report symptoms that are associated with 
 > * **Group**: the demographic factor the "Subgroup" column was grouped by, such as age, gender and race, etc.
 > * **State**: state name
 > * **Subgroup**: subgroups in a given group
-> * **Time Period**: one period = two weeks; the data set contains 51 time periods
+> * **Time Period**: one period = two weeks; the data set contains 52 time periods
 > * **Value**: estimated percentage of respondents showing the symptom(s) of anxiety/depression
 
-Data collection: Apr. 23, 2020 - Nov. 29, 2022 (as the time of writing)
+Data collection: Apr. 23, 2020 - Dec. 29, 2022 (as the time of writing)
 
 ### Key Observations
 
