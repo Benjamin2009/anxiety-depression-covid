@@ -31,4 +31,4 @@ Data collection: Apr. 23, 2020 - Dec. 29, 2022 (as the time of writing)
 
 Please read the notebook:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Benjamin2009/anxiety-depression-covid/blob/main/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Benjamin2009/anxiety-depression-covid/tree/main/HEAD?labpath=https%3A%2F%2Fgithub.com%2FBenjamin2009%2Fanxiety-depression-covid%2Fblob%2Fmain%2FAnxiety%2520and%2520Depression%2520in%2520American%2520Households%2520during%2520COVID-19.ipynb)
