@@ -31,5 +31,5 @@ Data collection: Apr. 23, 2020 - Dec. 29, 2022 (as the time of writing)
 ---
 
 Please read the notebook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/benjamin2009-an-epression-covid-f3ttn4gi/notebooks/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Benjamin2009/anxiety-depression-covid/main?filepath=Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb)
 
