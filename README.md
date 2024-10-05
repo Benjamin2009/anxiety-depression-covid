@@ -25,10 +25,11 @@ Data collection: Apr. 23, 2020 - Dec. 29, 2022 (as the time of writing)
 
 ### Key Observations
 
-- The COVID-19 pandemic has exacerbated existing health inequalities and the negative effects have hit harder on social groups who already face disadvantage and discrimination, particularly in people who have disabilities, who have Black and Hispanic ethnic backgrounds, and who are sexual and gender minorities. Action should be taken swiftly to sufficiently meet the needs of these individuals, helping them to survive the COVID-19 pandemic and be well equipped to endure any similar strains in the future.
-- There are regional differences across U.S. states during the COVID-19 pandemic. In different Census regions, the levels of anxiety and/or depression are highest in the South, followed by the West and Northeast, and were the lowest in the Midwest. 
+- This project used data from the US Census Bureau to explore how the COVID-19 pandemic has affected psychological distress in American households. The findings clearly show that the pandemic has worsened existing health inequalities, hitting already vulnerable groups the hardest. People with disabilities, Black and Hispanic backgrounds, and sexual and gender minorities experienced higher levels of anxiety and depression compared to others. Additionally, younger adults, females, and those with lower education levels reported more severe symptoms. These insights highlight how different social factors intersect to influence mental health during challenging times.
+  
+- Looking at the data by state revealed significant regional differences in psychological distress. Some areas were more heavily impacted than others, suggesting that mental health support needs to be tailored to specific regions. By identifying these differences, policymakers and healthcare providers can better allocate resources and implement targeted interventions where they're needed most. 
 ---
 
 Please read the notebook:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/benjamin2009-an-epression-covid-f3ttn4gi/notebooks/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Benjamin2009/anxiety-depression-covid/tree/main/HEAD?labpath=https%3A%2F%2Fgithub.com%2FBenjamin2009%2Fanxiety-depression-covid%2Fblob%2Fmain%2FAnxiety%2520and%2520Depression%2520in%2520American%2520Households%2520during%2520COVID-19.ipynb)
